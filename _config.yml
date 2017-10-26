@@ -4,15 +4,15 @@
 
 # Site
 title: 程序员的小皮鞋
-subtitle:
-description:
-author: John Doe
+subtitle: A small man's vast journey
+description: Life is not just about the present, but also about poetry and distance
+author: MushanYun
 language:
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://cxydxpx/github.io
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
