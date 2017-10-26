@@ -7,6 +7,8 @@ author: mushanYun
 
 ### Some commands for Hexo
 
+<!--more-->
+
 ## server
 
 ```
