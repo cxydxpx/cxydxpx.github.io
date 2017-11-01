@@ -5,15 +5,19 @@ tags:
 author: mushanYun
 ---
 
-### Some commands for Hexo
 
-<!--more-->
+
+Some commands for Hexo
+
+
 
 ## server
 
 ```
 $ npm install hexo-server
 ```
+
+<!--more-->
 
 ## deployer
 
