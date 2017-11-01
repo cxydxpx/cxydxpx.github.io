@@ -9,15 +9,13 @@ author: mushanYun
 
 Some commands for Hexo
 
-
+<!--more-->
 
 ## server
 
 ```
 $ npm install hexo-server
 ```
-
-<!--more-->
 
 ## deployer
 
