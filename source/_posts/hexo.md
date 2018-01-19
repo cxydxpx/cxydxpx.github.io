@@ -53,5 +53,9 @@ $ hexo generate
 $ hexo deploy
 ```
 
+## Clean local date
 
+```
+$ hexo clean
+```
 
